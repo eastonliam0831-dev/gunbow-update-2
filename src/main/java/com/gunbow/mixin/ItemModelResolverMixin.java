@@ -20,7 +20,25 @@ public abstract class ItemModelResolverMixin {
 
     @ModifyVariable(method = "appendItemLayers", at = @At("HEAD"), argsOnly = true, require = 0)
     private ItemStack gunbow$swapModel(ItemStack stack) {
-        if (GunState.modelId() != null && stack.is(Items.BOW)) {
-            ItemStack copy = stack.copy();
-            LocalPlayer p = Minecraft.getInstance().player;
-            boolean drawing = p != null
+        if (GunState.modelId() == null) {
+            return stack;
+        }
+        if (!stack.is(Items.BOW)) {
+            return stack;
+        }
+        ItemStack copy = stack.copy();
+        boolean drawing = false;
+        LocalPlayer p = Minecraft.getInstance().player;
+        if (p != null) {
+            if (p.isUsingItem()) {
+                drawing = p.getUseItem().is(Items.BOW);
+            }
+        }
+        if (drawing) {
+            copy.set(DataComponents.ITEM_MODEL, GunState.drawModelId());
+        } else {
+            copy.set(DataComponents.ITEM_MODEL, GunState.modelId());
+        }
+        return copy;
+    }
+}
