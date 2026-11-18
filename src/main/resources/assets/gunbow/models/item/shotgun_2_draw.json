@@ -1,1 +1,1 @@
-{"parent":"gunbow:item/shotgun_2","display":{"firstperson_righthand":{"rotation":[0,145,0],"translation":[1.0,-0.5,0.0],"scale":[0.5,0.5,0.5]},"firstperson_lefthand":{"rotation":[0,-145,0],"translation":[1.0,-0.5,0.0],"scale":[0.5,0.5,0.5]}}}
+{"parent":"gunbow:item/shotgun_2","display":{"firstperson_righthand":{"rotation":[0,55,0],"translation":[1.0,-0.5,0.0],"scale":[0.5,0.5,0.5]},"firstperson_lefthand":{"rotation":[0,-55,0],"translation":[1.0,-0.5,0.0],"scale":[0.5,0.5,0.5]}}}
