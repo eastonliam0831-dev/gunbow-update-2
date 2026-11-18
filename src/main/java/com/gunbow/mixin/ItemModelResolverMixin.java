@@ -1,6 +1,8 @@
 package com.gunbow.mixin;
 
 import com.gunbow.GunState;
+import net.minecraft.client.Minecraft;
+import net.minecraft.client.player.LocalPlayer;
 import net.minecraft.client.renderer.item.ItemModelResolver;
 import net.minecraft.core.component.DataComponents;
 import net.minecraft.world.item.ItemStack;
@@ -20,7 +22,9 @@ public abstract class ItemModelResolverMixin {
     private ItemStack gunbow$swapModel(ItemStack stack) {
         if (GunState.modelId() != null && stack.is(Items.BOW)) {
             ItemStack copy = stack.copy();
-            copy.set(DataComponents.ITEM_MODEL, GunState.modelId());
+            LocalPlayer p = Minecraft.getInstance().player;
+            boolean drawing = p != null && p.isUsingItem() && p.getUseItem() == stack;
+            copy.set(DataComponents.ITEM_MODEL, drawing ? GunState.drawModelId() : GunState.modelId());
             return copy;
         }
         return stack;

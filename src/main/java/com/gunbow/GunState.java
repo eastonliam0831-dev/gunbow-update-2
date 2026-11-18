@@ -12,6 +12,7 @@ import java.nio.file.Path;
 public final class GunState {
     private static Guns.Gun selected;
     private static Identifier modelId;
+    private static Identifier drawModelId;
     private static Component name;
 
     private static Path file() {
@@ -30,6 +31,7 @@ public final class GunState {
     public static void set(Guns.Gun gun, boolean save) {
         selected = gun;
         modelId = gun == null ? null : Identifier.fromNamespaceAndPath("gunbow", gun.id());
+        drawModelId = gun == null ? null : Identifier.fromNamespaceAndPath("gunbow", gun.id() + "_draw");
         name = gun == null ? null : Component.literal(gun.name());
         if (save) {
             try {
@@ -42,6 +44,7 @@ public final class GunState {
 
     public static Guns.Gun selected() { return selected; }
     public static Identifier modelId() { return modelId; }
+    public static Identifier drawModelId() { return drawModelId; }
     public static Component name() { return name; }
 
     private GunState() {}
