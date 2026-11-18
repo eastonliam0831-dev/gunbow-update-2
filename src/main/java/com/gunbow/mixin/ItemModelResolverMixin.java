@@ -23,10 +23,4 @@ public abstract class ItemModelResolverMixin {
         if (GunState.modelId() != null && stack.is(Items.BOW)) {
             ItemStack copy = stack.copy();
             LocalPlayer p = Minecraft.getInstance().player;
-            boolean drawing = p != null && p.isUsingItem() && p.getUseItem() == stack;
-            copy.set(DataComponents.ITEM_MODEL, drawing ? GunState.drawModelId() : GunState.modelId());
-            return copy;
-        }
-        return stack;
-    }
-}
+            boolean drawing = p != null
