@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "gunbow",
+  "version": "${version}",
+  "name": "Gun Bow",
+  "description": "Client-side mod: pick from 40 modeled guns and your bow becomes that gun - name, model, hold position and gunshot sound. Works on any server.",
+  "authors": ["You"],
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.gunbow.GunBowClient"]
+  },
+  "mixins": [
+    { "config": "gunbow.mixins.json", "environment": "client" }
+  ],
+  "depends": {
+    "fabricloader": ">=0.19.5",
+    "minecraft": "~26.3",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

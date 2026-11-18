@@ -1,0 +1,10 @@
+{
+ "key.gunbow.menu": "Open Gun Menu",
+ "key.category.gunbow.main": "Gun Bow",
+ "gunbow.subtitle.shot": "Gunshot",
+ "gunbow.subtitle.reload": "Reloading",
+ "key.gunbow.reload": "Reload (sound)",
+ "gunbow.menu.title": "Choose Your Gun",
+ "gunbow.menu.default": "Vanilla Bow",
+ "gunbow.menu.done": "Done"
+}

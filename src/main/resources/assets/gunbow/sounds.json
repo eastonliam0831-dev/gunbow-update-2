@@ -1,0 +1,722 @@
+{
+ "shot.pistol_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.pistol_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.pistol_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.pistol_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.pistol_5": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_5": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.pistol_6": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_pistol",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.pistol_6": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_pistol",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.revolver_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_revolver",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.revolver_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_revolver",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.revolver_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_revolver",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.revolver_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_revolver",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.revolver_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_revolver",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.revolver_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_revolver",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.revolver_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_revolver",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.revolver_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_revolver",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.revolver_5": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_revolver",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.revolver_5": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_revolver",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.smg_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_smg",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.smg_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_smg",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.smg_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_smg",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.smg_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_smg",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.smg_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_smg",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.smg_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_smg",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.smg_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_smg",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.smg_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_smg",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.smg_5": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_smg",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.smg_5": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_smg",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_5": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_5": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_2_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_2_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_2_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_2_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_2_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_2_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.assault_rifle_2_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.assault_rifle_2_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.bullpup_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.bullpup_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.bullpup_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.bullpup_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.bullpup_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.bullpup_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_rifle",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_short_stock": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_short_stock": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.shotgun_sawed_off": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_shotgun",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.shotgun_sawed_off": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_shotgun",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_1": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_1": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_2": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_2": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 0.98
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_3": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_3": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 1.0
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_4": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_4": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 1.02
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_5": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_5": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 1.04
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ },
+ "shot.sniper_rifle_6": {
+  "sounds": [
+   {
+    "name": "gunbow:fire_sniper",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.shot"
+ },
+ "reload.sniper_rifle_6": {
+  "sounds": [
+   {
+    "name": "gunbow:reload_sniper",
+    "pitch": 0.96
+   }
+  ],
+  "subtitle": "gunbow.subtitle.reload"
+ }
+}
